@@ -1,5 +1,5 @@
 # Movie Recommender System Mini Project
-Mini Project for the Course 18CSC305J- Artificial Intelligence in SRMIST Kattankulathur
+Mini Project for the Course 18CSC305J- Artificial Intelligence at SRMIST Kattankulathur
 # Team Members
 Kevin Thomas Koshy (RA2011003010018) <br>
 Renny Sam (RA2011003010026) <br>
